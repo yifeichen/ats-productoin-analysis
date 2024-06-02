@@ -17,36 +17,36 @@ class IngredientElement:
 
 class ProductionChain:
     def __init__(self):
-        self.product:IngredientElement = None
-        self.ingredient1:List[IngredientElement] = None
-        self.ingredient2:List[IngredientElement] = None
+        self.time: int = 0
+        self.name = ""
+        self.product: IngredientElement = []
+        self.ingredient: List[List[IngredientElement]] = []
 
     def to_string(self):
         ret = ""
-        lines = []
-        if len(self.ingredient1) > 0 and len(self.ingredient2) > 0:
-            for ing1 in self.ingredient1:
-                for ing2 in self.ingredient2:
-                    lines.append(f"{ing1.to_string()} + {ing2.to_string()}")
-
+        if len(self.ingredient) > 0:
+            lines = self.ingredient_list_to_string(self.ingredient)
         else:
-            if len(self.ingredient1) > 0:
-                for ing1 in self.ingredient1:
-                    lines.append(ing1.to_string())
-            else:
-                for ing2 in self.ingredient2:
-                    lines.append(ing2.to_string())
+            lines = [""]
 
         for line in lines:
-            ret += self.product.to_string() + " : " + line + "\n"
-
+            ret += self.product.to_string() + " : " + str(self.time) + " : " + line + "\n"
         return ret
 
+    def ingredient_list_to_string(self, remain: List[List[IngredientElement]]) -> List[str]:
+        current_List = remain.pop(0)
+        if len(remain) == 0:
+            return [x.to_string() for x in current_List]
+        else:
+            remain_list = self.ingredient_list_to_string(remain)
+            ret = []
+            for x in current_List:
+                ret.extend([x.to_string() + " " + y for y in remain_list])
+            return ret
 
 
 
-
-def parse_ingredient_list(strList):
+def parse_ingredient_list(strList) -> List[IngredientElement]:
     ret = []
     while len(strList) >= 2:
         p = IngredientElement()
@@ -54,7 +54,8 @@ def parse_ingredient_list(strList):
         p.name = strList.pop(0)
         while len(strList) > 0 and not strList[0].isdigit():
             p.name += " " + strList.pop(0)
-        ret.append(p)
+        if p.name != "-":
+            ret.append(p)
     return ret
 
 
@@ -67,21 +68,27 @@ def parse_workshop(url):
 
     for index, row in data_rows.iterrows():
         productList = row['Product'].replace("\xa0", " ").split()
-        ing1List = row[2].replace("\xa0", " ").split()
-        ing2List = row[3].replace("\xa0", " ").split()
         current = ProductionChain()
+        current.name = building_name
         p = IngredientElement()
         p.number = int(productList.pop(0))
         p.name = productList.pop(0)
+        while len(productList) > 0 and not productList[0].isdigit():
+            p.name += " " + productList.pop(0)
         current.product = p
-        current.ingredient1 = parse_ingredient_list(ing1List)
-        current.ingredient2 = parse_ingredient_list(ing2List)
+        time_string = row[1].replace("★", "")
+        current.time = int(time_string[:-3]) * 60 + int(time_string[-2:])
+        for index in range(2,len(data_rows.count())-1):
+            ing_str_list = row[index].replace("\xa0", " ").split()
+            ing_list = parse_ingredient_list(ing_str_list)
+            if len(ing_list)>0:
+                current.ingredient.append(ing_list)
         ret.append(current)
     return ret
 
 
 def main():
-    productions = parse_workshop('https://hoodedhorse.com/wiki/Against_the_Storm/Flawless_Leatherworker')
+    productions = parse_workshop(' https://hoodedhorse.com/wiki/Against_the_Storm/Hallowed_Herb_Garden')
     for production in productions:
         print(production.to_string())
 

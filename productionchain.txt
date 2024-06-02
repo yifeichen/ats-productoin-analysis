@@ -1,0 +1,1464 @@
+Cooperage 
+ 10 Barrels : 105 :  1 Copper Bars  2 Planks
+ 10 Barrels : 105 :  1 Crystalized Dew  2 Planks
+
+
+Cooperage 
+ 10 Coats : 168 :  2 Fabric
+
+
+Cooperage 
+ 10 Tea : 126 :  4 Herbs  4 Drizzle Water  2 Crystalized Dew
+ 10 Tea : 126 :  4 Herbs  4 Drizzle Water  2 Copper Bars
+ 10 Tea : 126 :  4 Herbs  5 Clearance Water  2 Crystalized Dew
+ 10 Tea : 126 :  4 Herbs  5 Clearance Water  2 Copper Bars
+ 10 Tea : 126 :  4 Herbs  6 Storm Water  2 Crystalized Dew
+ 10 Tea : 126 :  4 Herbs  6 Storm Water  2 Copper Bars
+ 10 Tea : 126 :  4 Pigment  4 Drizzle Water  2 Crystalized Dew
+ 10 Tea : 126 :  4 Pigment  4 Drizzle Water  2 Copper Bars
+ 10 Tea : 126 :  4 Pigment  5 Clearance Water  2 Crystalized Dew
+ 10 Tea : 126 :  4 Pigment  5 Clearance Water  2 Copper Bars
+ 10 Tea : 126 :  4 Pigment  6 Storm Water  2 Crystalized Dew
+ 10 Tea : 126 :  4 Pigment  6 Storm Water  2 Copper Bars
+ 10 Tea : 126 :  4 Resin  4 Drizzle Water  2 Crystalized Dew
+ 10 Tea : 126 :  4 Resin  4 Drizzle Water  2 Copper Bars
+ 10 Tea : 126 :  4 Resin  5 Clearance Water  2 Crystalized Dew
+ 10 Tea : 126 :  4 Resin  5 Clearance Water  2 Copper Bars
+ 10 Tea : 126 :  4 Resin  6 Storm Water  2 Crystalized Dew
+ 10 Tea : 126 :  4 Resin  6 Storm Water  2 Copper Bars
+ 10 Tea : 126 :  4 Mushrooms  4 Drizzle Water  2 Crystalized Dew
+ 10 Tea : 126 :  4 Mushrooms  4 Drizzle Water  2 Copper Bars
+ 10 Tea : 126 :  4 Mushrooms  5 Clearance Water  2 Crystalized Dew
+ 10 Tea : 126 :  4 Mushrooms  5 Clearance Water  2 Copper Bars
+ 10 Tea : 126 :  4 Mushrooms  6 Storm Water  2 Crystalized Dew
+ 10 Tea : 126 :  4 Mushrooms  6 Storm Water  2 Copper Bars
+ 10 Tea : 126 :  4 Roots  4 Drizzle Water  2 Crystalized Dew
+ 10 Tea : 126 :  4 Roots  4 Drizzle Water  2 Copper Bars
+ 10 Tea : 126 :  4 Roots  5 Clearance Water  2 Crystalized Dew
+ 10 Tea : 126 :  4 Roots  5 Clearance Water  2 Copper Bars
+ 10 Tea : 126 :  4 Roots  6 Storm Water  2 Crystalized Dew
+ 10 Tea : 126 :  4 Roots  6 Storm Water  2 Copper Bars
+
+
+Toolshop 
+ 2 Tools : 60 :  6 Wood  2 Copper Bars
+ 2 Tools : 60 :  6 Wood  2 Crystalized Dew
+ 2 Tools : 60 :  1 Planks  2 Copper Bars
+ 2 Tools : 60 :  1 Planks  2 Crystalized Dew
+
+
+Toolshop 
+ 3 Pipes : 60 :  2 Copper Bars
+ 3 Pipes : 60 :  2 Crystalized Dew
+
+
+Toolshop 
+ 10 Barrels : 126 :  3 Copper Bars  2 Planks
+ 10 Barrels : 126 :  3 Crystalized Dew  2 Planks
+
+
+Artisan 
+ 10 Coats : 168 :  2 Fabric
+
+
+Artisan 
+ 10 Barrels : 126 :  2 Copper Bars  2 Planks
+ 10 Barrels : 126 :  2 Crystalized Dew  2 Planks
+
+
+Artisan 
+ 2 Pack of Luxury Goods : 42 :  4 Wine
+ 2 Pack of Luxury Goods : 42 :  4 Training Gear
+ 2 Pack of Luxury Goods : 42 :  4 Incense
+ 2 Pack of Luxury Goods : 42 :  4 Scrolls
+ 2 Pack of Luxury Goods : 42 :  4 Ale
+ 2 Pack of Luxury Goods : 42 :  4 Tea
+
+
+Distillery 
+ 10 Wine : 84 :  3 Berries  3 Pottery
+ 10 Wine : 84 :  3 Berries  3 Barrels
+ 10 Wine : 84 :  3 Berries  3 Waterskins
+ 10 Wine : 84 :  3 Mushrooms  3 Pottery
+ 10 Wine : 84 :  3 Mushrooms  3 Barrels
+ 10 Wine : 84 :  3 Mushrooms  3 Waterskins
+ 10 Wine : 84 :  3 Reed  3 Pottery
+ 10 Wine : 84 :  3 Reed  3 Barrels
+ 10 Wine : 84 :  3 Reed  3 Waterskins
+
+
+Distillery 
+ 10 Porridge : 126 :  5 Grain  7 Drizzle Water
+ 10 Porridge : 126 :  5 Grain  9 Clearance Water
+ 10 Porridge : 126 :  5 Grain  11 Storm Water
+ 10 Porridge : 126 :  5 Vegetables  7 Drizzle Water
+ 10 Porridge : 126 :  5 Vegetables  9 Clearance Water
+ 10 Porridge : 126 :  5 Vegetables  11 Storm Water
+ 10 Porridge : 126 :  5 Mushrooms  7 Drizzle Water
+ 10 Porridge : 126 :  5 Mushrooms  9 Clearance Water
+ 10 Porridge : 126 :  5 Mushrooms  11 Storm Water
+ 10 Porridge : 126 :  5 Herbs  7 Drizzle Water
+ 10 Porridge : 126 :  5 Herbs  9 Clearance Water
+ 10 Porridge : 126 :  5 Herbs  11 Storm Water
+
+
+Distillery 
+ 10 Barrels : 126 :  2 Copper Bars  2 Planks
+ 10 Barrels : 126 :  2 Crystalized Dew  2 Planks
+
+
+Provisioner 
+ 10 Flour : 63 :  7 Grain
+ 10 Flour : 63 :  7 Mushrooms
+ 10 Flour : 63 :  7 Roots
+
+
+Provisioner 
+ 10 Barrels : 126 :  2 Copper Bars  2 Planks
+ 10 Barrels : 126 :  2 Crystalized Dew  2 Planks
+
+
+Provisioner 
+ 3 Pack of Provisions : 42 :  4 Herbs
+ 3 Pack of Provisions : 42 :  4 Berries
+ 3 Pack of Provisions : 42 :  4 Insects
+ 3 Pack of Provisions : 42 :  4 Meat
+ 3 Pack of Provisions : 42 :  4 Eggs
+
+
+Flawless_Cooperage 
+ 10 Barrels : 105 :  1 Copper Bars  2 Planks
+ 10 Barrels : 105 :  1 Crystalized Dew  2 Planks
+
+
+Flawless_Cooperage 
+ 10 Coats : 126 :  1 Fabric
+
+
+Flawless_Cooperage 
+ 10 Tea : 105 :  2 Herbs  2 Drizzle Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Herbs  2 Drizzle Water  1 Copper Bars
+ 10 Tea : 105 :  2 Herbs  3 Clearance Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Herbs  3 Clearance Water  1 Copper Bars
+ 10 Tea : 105 :  2 Herbs  4 Storm Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Herbs  4 Storm Water  1 Copper Bars
+ 10 Tea : 105 :  2 Pigment  2 Drizzle Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Pigment  2 Drizzle Water  1 Copper Bars
+ 10 Tea : 105 :  2 Pigment  3 Clearance Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Pigment  3 Clearance Water  1 Copper Bars
+ 10 Tea : 105 :  2 Pigment  4 Storm Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Pigment  4 Storm Water  1 Copper Bars
+ 10 Tea : 105 :  2 Resin  2 Drizzle Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Resin  2 Drizzle Water  1 Copper Bars
+ 10 Tea : 105 :  2 Resin  3 Clearance Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Resin  3 Clearance Water  1 Copper Bars
+ 10 Tea : 105 :  2 Resin  4 Storm Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Resin  4 Storm Water  1 Copper Bars
+ 10 Tea : 105 :  2 Mushrooms  2 Drizzle Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Mushrooms  2 Drizzle Water  1 Copper Bars
+ 10 Tea : 105 :  2 Mushrooms  3 Clearance Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Mushrooms  3 Clearance Water  1 Copper Bars
+ 10 Tea : 105 :  2 Mushrooms  4 Storm Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Mushrooms  4 Storm Water  1 Copper Bars
+ 10 Tea : 105 :  2 Roots  2 Drizzle Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Roots  2 Drizzle Water  1 Copper Bars
+ 10 Tea : 105 :  2 Roots  3 Clearance Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Roots  3 Clearance Water  1 Copper Bars
+ 10 Tea : 105 :  2 Roots  4 Storm Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Roots  4 Storm Water  1 Copper Bars
+
+
+Field_Kitchen 
+ 10 Jerky : 126 :  8 Insects  5 Wood
+ 10 Jerky : 126 :  8 Insects  2 Oil
+ 10 Jerky : 126 :  8 Insects  1 Coal
+ 10 Jerky : 126 :  8 Insects  1 Sea Marrow
+ 10 Jerky : 126 :  8 Meat  5 Wood
+ 10 Jerky : 126 :  8 Meat  2 Oil
+ 10 Jerky : 126 :  8 Meat  1 Coal
+ 10 Jerky : 126 :  8 Meat  1 Sea Marrow
+
+
+Field_Kitchen 
+ 10 Porridge : 126 :  8 Grain  10 Drizzle Water
+ 10 Porridge : 126 :  8 Grain  12 Clearance Water
+ 10 Porridge : 126 :  8 Grain  14 Storm Water
+ 10 Porridge : 126 :  8 Vegetables  10 Drizzle Water
+ 10 Porridge : 126 :  8 Vegetables  12 Clearance Water
+ 10 Porridge : 126 :  8 Vegetables  14 Storm Water
+ 10 Porridge : 126 :  8 Mushrooms  10 Drizzle Water
+ 10 Porridge : 126 :  8 Mushrooms  12 Clearance Water
+ 10 Porridge : 126 :  8 Mushrooms  14 Storm Water
+ 10 Porridge : 126 :  8 Herbs  10 Drizzle Water
+ 10 Porridge : 126 :  8 Herbs  12 Clearance Water
+ 10 Porridge : 126 :  8 Herbs  14 Storm Water
+
+
+Field_Kitchen 
+ 10 Biscuits : 126 :  10 Flour  4 Herbs
+ 10 Biscuits : 126 :  10 Flour  4 Berries
+ 10 Biscuits : 126 :  10 Flour  4 Roots
+
+
+Field_Kitchen 
+ 10 Pickled Goods : 126 :  7 Vegetables  3 Pottery
+ 10 Pickled Goods : 126 :  7 Vegetables  3 Barrels
+ 10 Pickled Goods : 126 :  7 Vegetables  3 Waterskins
+ 10 Pickled Goods : 126 :  7 Mushrooms  3 Pottery
+ 10 Pickled Goods : 126 :  7 Mushrooms  3 Barrels
+ 10 Pickled Goods : 126 :  7 Mushrooms  3 Waterskins
+ 10 Pickled Goods : 126 :  7 Roots  3 Pottery
+ 10 Pickled Goods : 126 :  7 Roots  3 Barrels
+ 10 Pickled Goods : 126 :  7 Roots  3 Waterskins
+ 10 Pickled Goods : 126 :  7 Berries  3 Pottery
+ 10 Pickled Goods : 126 :  7 Berries  3 Barrels
+ 10 Pickled Goods : 126 :  7 Berries  3 Waterskins
+ 10 Pickled Goods : 126 :  7 Eggs  3 Pottery
+ 10 Pickled Goods : 126 :  7 Eggs  3 Barrels
+ 10 Pickled Goods : 126 :  7 Eggs  3 Waterskins
+
+
+Beanery 
+ 10 Porridge : 105 :  4 Grain  6 Drizzle Water
+ 10 Porridge : 105 :  4 Grain  8 Clearance Water
+ 10 Porridge : 105 :  4 Grain  10 Storm Water
+ 10 Porridge : 105 :  4 Vegetables  6 Drizzle Water
+ 10 Porridge : 105 :  4 Vegetables  8 Clearance Water
+ 10 Porridge : 105 :  4 Vegetables  10 Storm Water
+ 10 Porridge : 105 :  4 Mushrooms  6 Drizzle Water
+ 10 Porridge : 105 :  4 Mushrooms  8 Clearance Water
+ 10 Porridge : 105 :  4 Mushrooms  10 Storm Water
+ 10 Porridge : 105 :  4 Herbs  6 Drizzle Water
+ 10 Porridge : 105 :  4 Herbs  8 Clearance Water
+ 10 Porridge : 105 :  4 Herbs  10 Storm Water
+
+
+Beanery 
+ 10 Pickled Goods : 126 :  6 Vegetables  3 Pottery
+ 10 Pickled Goods : 126 :  6 Vegetables  3 Barrels
+ 10 Pickled Goods : 126 :  6 Vegetables  3 Waterskins
+ 10 Pickled Goods : 126 :  6 Mushrooms  3 Pottery
+ 10 Pickled Goods : 126 :  6 Mushrooms  3 Barrels
+ 10 Pickled Goods : 126 :  6 Mushrooms  3 Waterskins
+ 10 Pickled Goods : 126 :  6 Roots  3 Pottery
+ 10 Pickled Goods : 126 :  6 Roots  3 Barrels
+ 10 Pickled Goods : 126 :  6 Roots  3 Waterskins
+ 10 Pickled Goods : 126 :  6 Berries  3 Pottery
+ 10 Pickled Goods : 126 :  6 Berries  3 Barrels
+ 10 Pickled Goods : 126 :  6 Berries  3 Waterskins
+ 10 Pickled Goods : 126 :  6 Eggs  3 Pottery
+ 10 Pickled Goods : 126 :  6 Eggs  3 Barrels
+ 10 Pickled Goods : 126 :  6 Eggs  3 Waterskins
+
+
+Beanery 
+ 2 Crystalized Dew : 42 :  3 Herbs  4 Stone  10 Storm Water
+ 2 Crystalized Dew : 42 :  3 Herbs  4 Stone  14 Clearance Water
+ 2 Crystalized Dew : 42 :  3 Herbs  4 Stone  18 Drizzle Water
+ 2 Crystalized Dew : 42 :  3 Herbs  4 Clay  10 Storm Water
+ 2 Crystalized Dew : 42 :  3 Herbs  4 Clay  14 Clearance Water
+ 2 Crystalized Dew : 42 :  3 Herbs  4 Clay  18 Drizzle Water
+ 2 Crystalized Dew : 42 :  3 Insects  4 Stone  10 Storm Water
+ 2 Crystalized Dew : 42 :  3 Insects  4 Stone  14 Clearance Water
+ 2 Crystalized Dew : 42 :  3 Insects  4 Stone  18 Drizzle Water
+ 2 Crystalized Dew : 42 :  3 Insects  4 Clay  10 Storm Water
+ 2 Crystalized Dew : 42 :  3 Insects  4 Clay  14 Clearance Water
+ 2 Crystalized Dew : 42 :  3 Insects  4 Clay  18 Drizzle Water
+ 2 Crystalized Dew : 42 :  3 Resin  4 Stone  10 Storm Water
+ 2 Crystalized Dew : 42 :  3 Resin  4 Stone  14 Clearance Water
+ 2 Crystalized Dew : 42 :  3 Resin  4 Stone  18 Drizzle Water
+ 2 Crystalized Dew : 42 :  3 Resin  4 Clay  10 Storm Water
+ 2 Crystalized Dew : 42 :  3 Resin  4 Clay  14 Clearance Water
+ 2 Crystalized Dew : 42 :  3 Resin  4 Clay  18 Drizzle Water
+ 2 Crystalized Dew : 42 :  3 Vegetables  4 Stone  10 Storm Water
+ 2 Crystalized Dew : 42 :  3 Vegetables  4 Stone  14 Clearance Water
+ 2 Crystalized Dew : 42 :  3 Vegetables  4 Stone  18 Drizzle Water
+ 2 Crystalized Dew : 42 :  3 Vegetables  4 Clay  10 Storm Water
+ 2 Crystalized Dew : 42 :  3 Vegetables  4 Clay  14 Clearance Water
+ 2 Crystalized Dew : 42 :  3 Vegetables  4 Clay  18 Drizzle Water
+
+
+Brewery 
+ 10 Ale : 105 :  4 Grain  2 Pottery
+ 10 Ale : 105 :  4 Grain  1 Barrels
+ 10 Ale : 105 :  4 Grain  2 Waterskins
+ 10 Ale : 105 :  4 Roots  2 Pottery
+ 10 Ale : 105 :  4 Roots  1 Barrels
+ 10 Ale : 105 :  4 Roots  2 Waterskins
+
+
+Brewery 
+ 10 Pickled Goods : 126 :  6 Vegetables  3 Pottery
+ 10 Pickled Goods : 126 :  6 Vegetables  3 Barrels
+ 10 Pickled Goods : 126 :  6 Vegetables  3 Waterskins
+ 10 Pickled Goods : 126 :  6 Mushrooms  3 Pottery
+ 10 Pickled Goods : 126 :  6 Mushrooms  3 Barrels
+ 10 Pickled Goods : 126 :  6 Mushrooms  3 Waterskins
+ 10 Pickled Goods : 126 :  6 Roots  3 Pottery
+ 10 Pickled Goods : 126 :  6 Roots  3 Barrels
+ 10 Pickled Goods : 126 :  6 Roots  3 Waterskins
+ 10 Pickled Goods : 126 :  6 Berries  3 Pottery
+ 10 Pickled Goods : 126 :  6 Berries  3 Barrels
+ 10 Pickled Goods : 126 :  6 Berries  3 Waterskins
+ 10 Pickled Goods : 126 :  6 Eggs  3 Pottery
+ 10 Pickled Goods : 126 :  6 Eggs  3 Barrels
+ 10 Pickled Goods : 126 :  6 Eggs  3 Waterskins
+
+
+Brewery 
+ 2 Pack of Crops : 42 :  5 Roots
+ 2 Pack of Crops : 42 :  5 Grain
+ 2 Pack of Crops : 42 :  5 Vegetables
+ 2 Pack of Crops : 42 :  5 Mushrooms
+
+
+Cellar 
+ 10 Wine : 63 :  2 Berries  2 Pottery
+ 10 Wine : 63 :  2 Berries  2 Barrels
+ 10 Wine : 63 :  2 Berries  2 Waterskins
+ 10 Wine : 63 :  2 Mushrooms  2 Pottery
+ 10 Wine : 63 :  2 Mushrooms  2 Barrels
+ 10 Wine : 63 :  2 Mushrooms  2 Waterskins
+ 10 Wine : 63 :  2 Reed  2 Pottery
+ 10 Wine : 63 :  2 Reed  2 Barrels
+ 10 Wine : 63 :  2 Reed  2 Waterskins
+
+
+Cellar 
+ 10 Pickled Goods : 126 :  6 Vegetables  3 Pottery
+ 10 Pickled Goods : 126 :  6 Vegetables  3 Barrels
+ 10 Pickled Goods : 126 :  6 Vegetables  3 Waterskins
+ 10 Pickled Goods : 126 :  6 Mushrooms  3 Pottery
+ 10 Pickled Goods : 126 :  6 Mushrooms  3 Barrels
+ 10 Pickled Goods : 126 :  6 Mushrooms  3 Waterskins
+ 10 Pickled Goods : 126 :  6 Roots  3 Pottery
+ 10 Pickled Goods : 126 :  6 Roots  3 Barrels
+ 10 Pickled Goods : 126 :  6 Roots  3 Waterskins
+ 10 Pickled Goods : 126 :  6 Berries  3 Pottery
+ 10 Pickled Goods : 126 :  6 Berries  3 Barrels
+ 10 Pickled Goods : 126 :  6 Berries  3 Waterskins
+ 10 Pickled Goods : 126 :  6 Eggs  3 Pottery
+ 10 Pickled Goods : 126 :  6 Eggs  3 Barrels
+ 10 Pickled Goods : 126 :  6 Eggs  3 Waterskins
+
+
+Cellar 
+ 10 Jerky : 126 :  6 Insects  5 Wood
+ 10 Jerky : 126 :  6 Insects  2 Oil
+ 10 Jerky : 126 :  6 Insects  1 Coal
+ 10 Jerky : 126 :  6 Insects  1 Sea Marrow
+ 10 Jerky : 126 :  6 Meat  5 Wood
+ 10 Jerky : 126 :  6 Meat  2 Oil
+ 10 Jerky : 126 :  6 Meat  1 Coal
+ 10 Jerky : 126 :  6 Meat  1 Sea Marrow
+
+
+Granary 
+ 2 Pack of Crops : 42 :  4 Roots
+ 2 Pack of Crops : 42 :  4 Grain
+ 2 Pack of Crops : 42 :  4 Vegetables
+ 2 Pack of Crops : 42 :  4 Mushrooms
+
+
+Granary 
+ 10 Pickled Goods : 126 :  5 Vegetables  3 Pottery
+ 10 Pickled Goods : 126 :  5 Vegetables  3 Barrels
+ 10 Pickled Goods : 126 :  5 Vegetables  2 Waterskins
+ 10 Pickled Goods : 126 :  5 Mushrooms  3 Pottery
+ 10 Pickled Goods : 126 :  5 Mushrooms  3 Barrels
+ 10 Pickled Goods : 126 :  5 Mushrooms  2 Waterskins
+ 10 Pickled Goods : 126 :  5 Roots  3 Pottery
+ 10 Pickled Goods : 126 :  5 Roots  3 Barrels
+ 10 Pickled Goods : 126 :  5 Roots  2 Waterskins
+ 10 Pickled Goods : 126 :  5 Berries  3 Pottery
+ 10 Pickled Goods : 126 :  5 Berries  3 Barrels
+ 10 Pickled Goods : 126 :  5 Berries  2 Waterskins
+ 10 Pickled Goods : 126 :  5 Eggs  3 Pottery
+ 10 Pickled Goods : 126 :  5 Eggs  3 Barrels
+ 10 Pickled Goods : 126 :  5 Eggs  2 Waterskins
+
+
+Granary 
+ 2 Fabric : 42 :  3 Plant Fiber
+ 2 Fabric : 42 :  3 Reed
+ 2 Fabric : 42 :  3 Leather
+
+
+Flawless_Cellar 
+ 10 Wine : 63 :  2 Berries  2 Pottery
+ 10 Wine : 63 :  2 Berries  2 Barrels
+ 10 Wine : 63 :  2 Berries  2 Waterskins
+ 10 Wine : 63 :  2 Mushrooms  2 Pottery
+ 10 Wine : 63 :  2 Mushrooms  2 Barrels
+ 10 Wine : 63 :  2 Mushrooms  2 Waterskins
+ 10 Wine : 63 :  2 Reed  2 Pottery
+ 10 Wine : 63 :  2 Reed  2 Barrels
+ 10 Wine : 63 :  2 Reed  2 Waterskins
+
+
+Flawless_Cellar 
+ 10 Pickled Goods : 105 :  4 Vegetables  3 Pottery
+ 10 Pickled Goods : 105 :  4 Vegetables  3 Barrels
+ 10 Pickled Goods : 105 :  4 Vegetables  2 Waterskins
+ 10 Pickled Goods : 105 :  4 Mushrooms  3 Pottery
+ 10 Pickled Goods : 105 :  4 Mushrooms  3 Barrels
+ 10 Pickled Goods : 105 :  4 Mushrooms  2 Waterskins
+ 10 Pickled Goods : 105 :  4 Roots  3 Pottery
+ 10 Pickled Goods : 105 :  4 Roots  3 Barrels
+ 10 Pickled Goods : 105 :  4 Roots  2 Waterskins
+ 10 Pickled Goods : 105 :  4 Berries  3 Pottery
+ 10 Pickled Goods : 105 :  4 Berries  3 Barrels
+ 10 Pickled Goods : 105 :  4 Berries  2 Waterskins
+ 10 Pickled Goods : 105 :  4 Eggs  3 Pottery
+ 10 Pickled Goods : 105 :  4 Eggs  3 Barrels
+ 10 Pickled Goods : 105 :  4 Eggs  2 Waterskins
+
+
+Flawless_Cellar 
+ 10 Jerky : 105 :  4 Insects  5 Wood
+ 10 Jerky : 105 :  4 Insects  2 Oil
+ 10 Jerky : 105 :  4 Insects  1 Coal
+ 10 Jerky : 105 :  4 Insects  1 Sea Marrow
+ 10 Jerky : 105 :  4 Meat  5 Wood
+ 10 Jerky : 105 :  4 Meat  2 Oil
+ 10 Jerky : 105 :  4 Meat  1 Coal
+ 10 Jerky : 105 :  4 Meat  1 Sea Marrow
+
+
+Grill 
+ 10 Skewers : 105 :  3 Insects  3 Vegetables
+ 10 Skewers : 105 :  3 Insects  3 Roots
+ 10 Skewers : 105 :  3 Insects  3 Berries
+ 10 Skewers : 105 :  3 Insects  3 Eggs
+ 10 Skewers : 105 :  3 Meat  3 Vegetables
+ 10 Skewers : 105 :  3 Meat  3 Roots
+ 10 Skewers : 105 :  3 Meat  3 Berries
+ 10 Skewers : 105 :  3 Meat  3 Eggs
+ 10 Skewers : 105 :  3 Mushrooms  3 Vegetables
+ 10 Skewers : 105 :  3 Mushrooms  3 Roots
+ 10 Skewers : 105 :  3 Mushrooms  3 Berries
+ 10 Skewers : 105 :  3 Mushrooms  3 Eggs
+ 10 Skewers : 105 :  2 Jerky  3 Vegetables
+ 10 Skewers : 105 :  2 Jerky  3 Roots
+ 10 Skewers : 105 :  2 Jerky  3 Berries
+ 10 Skewers : 105 :  2 Jerky  3 Eggs
+
+
+Grill 
+ 2 Copper Bars : 42 :  6 Copper Ore  5 Wood
+ 2 Copper Bars : 42 :  6 Copper Ore  2 Oil
+ 2 Copper Bars : 42 :  6 Copper Ore  1 Coal
+ 2 Copper Bars : 42 :  6 Copper Ore  1 Sea Marrow
+
+
+Grill 
+ 10 Ale : 126 :  6 Grain  3 Pottery
+ 10 Ale : 126 :  6 Grain  2 Barrels
+ 10 Ale : 126 :  6 Grain  3 Waterskins
+ 10 Ale : 126 :  6 Roots  3 Pottery
+ 10 Ale : 126 :  6 Roots  2 Barrels
+ 10 Ale : 126 :  6 Roots  3 Waterskins
+
+
+Scribe 
+ 8 Scrolls : 63 :  2 Leather  1 Pigment
+ 8 Scrolls : 63 :  2 Leather  1 Wine
+ 8 Scrolls : 63 :  2 Plant Fiber  1 Pigment
+ 8 Scrolls : 63 :  2 Plant Fiber  1 Wine
+ 8 Scrolls : 63 :  6 Wood  1 Pigment
+ 8 Scrolls : 63 :  6 Wood  1 Wine
+
+
+Scribe 
+ 10 Ale : 126 :  5 Grain  3 Pottery
+ 10 Ale : 126 :  5 Grain  2 Barrels
+ 10 Ale : 126 :  5 Grain  3 Waterskins
+ 10 Ale : 126 :  5 Roots  3 Pottery
+ 10 Ale : 126 :  5 Roots  2 Barrels
+ 10 Ale : 126 :  5 Roots  3 Waterskins
+
+
+Scribe 
+ 2 Tools : 90 :  10 Wood  4 Copper Bars
+ 2 Tools : 90 :  10 Wood  4 Crystalized Dew
+ 2 Tools : 90 :  3 Planks  4 Copper Bars
+ 2 Tools : 90 :  3 Planks  4 Crystalized Dew
+
+
+Tinctury 
+ 10 Ale : 126 :  5 Grain  3 Pottery
+ 10 Ale : 126 :  5 Grain  2 Barrels
+ 10 Ale : 126 :  5 Grain  3 Waterskins
+ 10 Ale : 126 :  5 Roots  3 Pottery
+ 10 Ale : 126 :  5 Roots  2 Barrels
+ 10 Ale : 126 :  5 Roots  3 Waterskins
+
+
+Tinctury 
+ 10 Wine : 84 :  3 Berries  3 Pottery
+ 10 Wine : 84 :  3 Berries  3 Barrels
+ 10 Wine : 84 :  3 Berries  3 Waterskins
+ 10 Wine : 84 :  3 Mushrooms  3 Pottery
+ 10 Wine : 84 :  3 Mushrooms  3 Barrels
+ 10 Wine : 84 :  3 Mushrooms  3 Waterskins
+ 10 Wine : 84 :  3 Reed  3 Pottery
+ 10 Wine : 84 :  3 Reed  3 Barrels
+ 10 Wine : 84 :  3 Reed  3 Waterskins
+
+
+Tinctury 
+ 10 Pigment : 126 :  4 Insects
+ 10 Pigment : 126 :  4 Berries
+ 10 Pigment : 126 :  4 Copper Ore
+ 10 Pigment : 126 :  3 Coal
+
+
+Lumber_Mill 
+ 2 Planks : 28 :  3 Wood
+
+
+Lumber_Mill 
+ 8 Scrolls : 84 :  4 Leather  3 Pigment
+ 8 Scrolls : 84 :  4 Leather  3 Wine
+ 8 Scrolls : 84 :  4 Plant Fiber  3 Pigment
+ 8 Scrolls : 84 :  4 Plant Fiber  3 Wine
+ 8 Scrolls : 84 :  10 Wood  3 Pigment
+ 8 Scrolls : 84 :  10 Wood  3 Wine
+
+
+Lumber_Mill 
+ 2 Pack of Trade Goods : 42 :  8 Pigment
+ 2 Pack of Trade Goods : 42 :  8 Oil
+ 2 Pack of Trade Goods : 42 :  6 Flour
+ 2 Pack of Trade Goods : 42 :  6 Pottery
+ 2 Pack of Trade Goods : 42 :  6 Barrels
+ 2 Pack of Trade Goods : 42 :  6 Waterskins
+
+
+Weaver 
+ 2 Fabric : 28 :  2 Plant Fiber
+ 2 Fabric : 28 :  2 Reed
+ 2 Fabric : 28 :  2 Leather
+
+
+Weaver 
+ 10 Training Gear : 126 :  8 Stone  3 Planks
+ 10 Training Gear : 126 :  8 Stone  3 Reed
+ 10 Training Gear : 126 :  3 Copper Bars  3 Planks
+ 10 Training Gear : 126 :  3 Copper Bars  3 Reed
+ 10 Training Gear : 126 :  3 Crystalized Dew  3 Planks
+ 10 Training Gear : 126 :  3 Crystalized Dew  3 Reed
+
+
+Weaver 
+ 2 Pack of Trade Goods : 42 :  8 Pigment
+ 2 Pack of Trade Goods : 42 :  8 Oil
+ 2 Pack of Trade Goods : 42 :  6 Flour
+ 2 Pack of Trade Goods : 42 :  6 Pottery
+ 2 Pack of Trade Goods : 42 :  6 Barrels
+ 2 Pack of Trade Goods : 42 :  6 Waterskins
+
+
+Smithy 
+ 2 Tools : 75 :  8 Wood  3 Copper Bars
+ 2 Tools : 75 :  8 Wood  3 Crystalized Dew
+ 2 Tools : 75 :  2 Planks  3 Copper Bars
+ 2 Tools : 75 :  2 Planks  3 Crystalized Dew
+
+
+Smithy 
+ 3 Pipes : 60 :  2 Copper Bars
+ 3 Pipes : 60 :  2 Crystalized Dew
+
+
+Smithy 
+ 2 Pack of Trade Goods : 42 :  6 Pigment
+ 2 Pack of Trade Goods : 42 :  6 Oil
+ 2 Pack of Trade Goods : 42 :  4 Flour
+ 2 Pack of Trade Goods : 42 :  4 Pottery
+ 2 Pack of Trade Goods : 42 :  4 Barrels
+ 2 Pack of Trade Goods : 42 :  4 Waterskins
+
+
+Flawless_Brewery 
+ 15 Ale : 105 :  4 Grain  2 Pottery
+ 15 Ale : 105 :  4 Grain  1 Barrels
+ 15 Ale : 105 :  4 Grain  2 Waterskins
+ 15 Ale : 105 :  4 Roots  2 Pottery
+ 15 Ale : 105 :  4 Roots  1 Barrels
+ 15 Ale : 105 :  4 Roots  2 Waterskins
+
+
+Flawless_Brewery 
+ 15 Pickled Goods : 105 :  4 Vegetables  3 Pottery
+ 15 Pickled Goods : 105 :  4 Vegetables  3 Barrels
+ 15 Pickled Goods : 105 :  4 Vegetables  2 Waterskins
+ 15 Pickled Goods : 105 :  4 Mushrooms  3 Pottery
+ 15 Pickled Goods : 105 :  4 Mushrooms  3 Barrels
+ 15 Pickled Goods : 105 :  4 Mushrooms  2 Waterskins
+ 15 Pickled Goods : 105 :  4 Roots  3 Pottery
+ 15 Pickled Goods : 105 :  4 Roots  3 Barrels
+ 15 Pickled Goods : 105 :  4 Roots  2 Waterskins
+ 15 Pickled Goods : 105 :  4 Berries  3 Pottery
+ 15 Pickled Goods : 105 :  4 Berries  3 Barrels
+ 15 Pickled Goods : 105 :  4 Berries  2 Waterskins
+ 15 Pickled Goods : 105 :  4 Eggs  3 Pottery
+ 15 Pickled Goods : 105 :  4 Eggs  3 Barrels
+ 15 Pickled Goods : 105 :  4 Eggs  2 Waterskins
+
+
+Flawless_Brewery 
+ 5 Pack of Crops : 28 :  3 Roots
+ 5 Pack of Crops : 28 :  3 Grain
+ 5 Pack of Crops : 28 :  3 Vegetables
+ 5 Pack of Crops : 28 :  3 Mushrooms
+
+
+Clothier 
+ 10 Coats : 126 :  1 Fabric
+
+
+Clothier 
+ 10 Waterskins : 84 :  6 Leather  4 Oil
+ 10 Waterskins : 84 :  6 Leather  4 Meat
+
+
+Clothier 
+ 8 Scrolls : 84 :  4 Leather  3 Pigment
+ 8 Scrolls : 84 :  4 Leather  3 Wine
+ 8 Scrolls : 84 :  4 Plant Fiber  3 Pigment
+ 8 Scrolls : 84 :  4 Plant Fiber  3 Wine
+ 8 Scrolls : 84 :  10 Wood  3 Pigment
+ 8 Scrolls : 84 :  10 Wood  3 Wine
+
+
+Apothecary 
+ 10 Tea : 126 :  3 Herbs  3 Drizzle Water  2 Crystalized Dew
+ 10 Tea : 126 :  3 Herbs  3 Drizzle Water  2 Copper Bars
+ 10 Tea : 126 :  3 Herbs  4 Clearance Water  2 Crystalized Dew
+ 10 Tea : 126 :  3 Herbs  4 Clearance Water  2 Copper Bars
+ 10 Tea : 126 :  3 Herbs  5 Storm Water  2 Crystalized Dew
+ 10 Tea : 126 :  3 Herbs  5 Storm Water  2 Copper Bars
+ 10 Tea : 126 :  3 Pigment  3 Drizzle Water  2 Crystalized Dew
+ 10 Tea : 126 :  3 Pigment  3 Drizzle Water  2 Copper Bars
+ 10 Tea : 126 :  3 Pigment  4 Clearance Water  2 Crystalized Dew
+ 10 Tea : 126 :  3 Pigment  4 Clearance Water  2 Copper Bars
+ 10 Tea : 126 :  3 Pigment  5 Storm Water  2 Crystalized Dew
+ 10 Tea : 126 :  3 Pigment  5 Storm Water  2 Copper Bars
+ 10 Tea : 126 :  3 Resin  3 Drizzle Water  2 Crystalized Dew
+ 10 Tea : 126 :  3 Resin  3 Drizzle Water  2 Copper Bars
+ 10 Tea : 126 :  3 Resin  4 Clearance Water  2 Crystalized Dew
+ 10 Tea : 126 :  3 Resin  4 Clearance Water  2 Copper Bars
+ 10 Tea : 126 :  3 Resin  5 Storm Water  2 Crystalized Dew
+ 10 Tea : 126 :  3 Resin  5 Storm Water  2 Copper Bars
+ 10 Tea : 126 :  3 Mushrooms  3 Drizzle Water  2 Crystalized Dew
+ 10 Tea : 126 :  3 Mushrooms  3 Drizzle Water  2 Copper Bars
+ 10 Tea : 126 :  3 Mushrooms  4 Clearance Water  2 Crystalized Dew
+ 10 Tea : 126 :  3 Mushrooms  4 Clearance Water  2 Copper Bars
+ 10 Tea : 126 :  3 Mushrooms  5 Storm Water  2 Crystalized Dew
+ 10 Tea : 126 :  3 Mushrooms  5 Storm Water  2 Copper Bars
+ 10 Tea : 126 :  3 Roots  3 Drizzle Water  2 Crystalized Dew
+ 10 Tea : 126 :  3 Roots  3 Drizzle Water  2 Copper Bars
+ 10 Tea : 126 :  3 Roots  4 Clearance Water  2 Crystalized Dew
+ 10 Tea : 126 :  3 Roots  4 Clearance Water  2 Copper Bars
+ 10 Tea : 126 :  3 Roots  5 Storm Water  2 Crystalized Dew
+ 10 Tea : 126 :  3 Roots  5 Storm Water  2 Copper Bars
+
+
+Apothecary 
+ 10 Incense : 126 :  5 Herbs  6 Wood
+ 10 Incense : 126 :  5 Herbs  3 Oil
+ 10 Incense : 126 :  5 Herbs  2 Coal
+ 10 Incense : 126 :  5 Herbs  2 Sea Marrow
+ 10 Incense : 126 :  5 Roots  6 Wood
+ 10 Incense : 126 :  5 Roots  3 Oil
+ 10 Incense : 126 :  5 Roots  2 Coal
+ 10 Incense : 126 :  5 Roots  2 Sea Marrow
+ 10 Incense : 126 :  5 Insects  6 Wood
+ 10 Incense : 126 :  5 Insects  3 Oil
+ 10 Incense : 126 :  5 Insects  2 Coal
+ 10 Incense : 126 :  5 Insects  2 Sea Marrow
+ 10 Incense : 126 :  7 Resin  6 Wood
+ 10 Incense : 126 :  7 Resin  3 Oil
+ 10 Incense : 126 :  7 Resin  2 Coal
+ 10 Incense : 126 :  7 Resin  2 Sea Marrow
+
+
+Apothecary 
+ 10 Biscuits : 126 :  8 Flour  3 Herbs
+ 10 Biscuits : 126 :  8 Flour  3 Berries
+ 10 Biscuits : 126 :  8 Flour  3 Roots
+
+
+Teahouse 
+ 10 Tea : 105 :  2 Herbs  2 Drizzle Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Herbs  2 Drizzle Water  1 Copper Bars
+ 10 Tea : 105 :  2 Herbs  3 Clearance Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Herbs  3 Clearance Water  1 Copper Bars
+ 10 Tea : 105 :  2 Herbs  4 Storm Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Herbs  4 Storm Water  1 Copper Bars
+ 10 Tea : 105 :  2 Pigment  2 Drizzle Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Pigment  2 Drizzle Water  1 Copper Bars
+ 10 Tea : 105 :  2 Pigment  3 Clearance Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Pigment  3 Clearance Water  1 Copper Bars
+ 10 Tea : 105 :  2 Pigment  4 Storm Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Pigment  4 Storm Water  1 Copper Bars
+ 10 Tea : 105 :  2 Resin  2 Drizzle Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Resin  2 Drizzle Water  1 Copper Bars
+ 10 Tea : 105 :  2 Resin  3 Clearance Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Resin  3 Clearance Water  1 Copper Bars
+ 10 Tea : 105 :  2 Resin  4 Storm Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Resin  4 Storm Water  1 Copper Bars
+ 10 Tea : 105 :  2 Mushrooms  2 Drizzle Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Mushrooms  2 Drizzle Water  1 Copper Bars
+ 10 Tea : 105 :  2 Mushrooms  3 Clearance Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Mushrooms  3 Clearance Water  1 Copper Bars
+ 10 Tea : 105 :  2 Mushrooms  4 Storm Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Mushrooms  4 Storm Water  1 Copper Bars
+ 10 Tea : 105 :  2 Roots  2 Drizzle Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Roots  2 Drizzle Water  1 Copper Bars
+ 10 Tea : 105 :  2 Roots  3 Clearance Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Roots  3 Clearance Water  1 Copper Bars
+ 10 Tea : 105 :  2 Roots  4 Storm Water  1 Crystalized Dew
+ 10 Tea : 105 :  2 Roots  4 Storm Water  1 Copper Bars
+
+
+Teahouse 
+ 10 Porridge : 126 :  5 Grain  7 Drizzle Water
+ 10 Porridge : 126 :  5 Grain  9 Clearance Water
+ 10 Porridge : 126 :  5 Grain  11 Storm Water
+ 10 Porridge : 126 :  5 Vegetables  7 Drizzle Water
+ 10 Porridge : 126 :  5 Vegetables  9 Clearance Water
+ 10 Porridge : 126 :  5 Vegetables  11 Storm Water
+ 10 Porridge : 126 :  5 Mushrooms  7 Drizzle Water
+ 10 Porridge : 126 :  5 Mushrooms  9 Clearance Water
+ 10 Porridge : 126 :  5 Mushrooms  11 Storm Water
+ 10 Porridge : 126 :  5 Herbs  7 Drizzle Water
+ 10 Porridge : 126 :  5 Herbs  9 Clearance Water
+ 10 Porridge : 126 :  5 Herbs  11 Storm Water
+
+
+Teahouse 
+ 10 Waterskins : 84 :  6 Leather  4 Oil
+ 10 Waterskins : 84 :  6 Leather  4 Meat
+
+
+Press 
+ 5 Oil : 63 :  2 Grain
+ 5 Oil : 63 :  2 Meat
+ 5 Oil : 63 :  2 Vegetables
+ 5 Oil : 63 :  2 Plant Fiber
+
+
+Press 
+ 10 Flour : 84 :  8 Grain
+ 10 Flour : 84 :  8 Mushrooms
+ 10 Flour : 84 :  8 Roots
+
+
+Press 
+ 2 Pack of Luxury Goods : 42 :  5 Wine
+ 2 Pack of Luxury Goods : 42 :  5 Training Gear
+ 2 Pack of Luxury Goods : 42 :  5 Incense
+ 2 Pack of Luxury Goods : 42 :  5 Scrolls
+ 2 Pack of Luxury Goods : 42 :  5 Ale
+ 2 Pack of Luxury Goods : 42 :  5 Tea
+
+
+Carpenter 
+ 2 Planks : 42 :  5 Wood
+
+
+Carpenter 
+ 2 Tools : 75 :  8 Wood  3 Copper Bars
+ 2 Tools : 75 :  8 Wood  3 Crystalized Dew
+ 2 Tools : 75 :  2 Planks  3 Copper Bars
+ 2 Tools : 75 :  2 Planks  3 Crystalized Dew
+
+
+Carpenter 
+ 2 Pack of Luxury Goods : 42 :  4 Wine
+ 2 Pack of Luxury Goods : 42 :  4 Training Gear
+ 2 Pack of Luxury Goods : 42 :  4 Incense
+ 2 Pack of Luxury Goods : 42 :  4 Scrolls
+ 2 Pack of Luxury Goods : 42 :  4 Ale
+ 2 Pack of Luxury Goods : 42 :  4 Tea
+
+
+Crude_Workstation 
+ 2 Planks : 56 :  8 Wood
+
+
+Crude_Workstation 
+ 2 Fabric : 56 :  6 Plant Fiber
+ 2 Fabric : 56 :  6 Reed
+ 2 Fabric : 56 :  6 Leather
+
+
+Crude_Workstation 
+ 2 Bricks : 56 :  6 Clay
+ 2 Bricks : 56 :  6 Stone
+
+
+Crude_Workstation 
+ 2 Pipes : 60 :  3 Copper Bars
+ 2 Pipes : 60 :  3 Crystalized Dew
+
+
+Supplier 
+ 10 Flour : 63 :  7 Grain
+ 10 Flour : 63 :  7 Mushrooms
+ 10 Flour : 63 :  7 Roots
+
+
+Supplier 
+ 2 Planks : 42 :  5 Wood
+
+
+Supplier 
+ 10 Waterskins : 84 :  5 Leather  3 Oil
+ 10 Waterskins : 84 :  5 Leather  3 Meat
+
+
+Workshop 
+ 2 Planks : 42 :  5 Wood
+
+
+Workshop 
+ 2 Fabric : 42 :  3 Plant Fiber
+ 2 Fabric : 42 :  3 Reed
+ 2 Fabric : 42 :  3 Leather
+
+
+Workshop 
+ 2 Bricks : 42 :  3 Clay
+ 2 Bricks : 42 :  3 Stone
+
+
+Workshop 
+ 2 Pipes : 60 :  3 Copper Bars
+ 2 Pipes : 60 :  3 Crystalized Dew
+
+
+Manufactory 
+ 10 Training Gear : 126 :  5 Stone  3 Planks
+ 10 Training Gear : 126 :  5 Stone  3 Reed
+ 10 Training Gear : 126 :  2 Copper Bars  3 Planks
+ 10 Training Gear : 126 :  2 Copper Bars  3 Reed
+ 10 Training Gear : 126 :  2 Crystalized Dew  3 Planks
+ 10 Training Gear : 126 :  2 Crystalized Dew  3 Reed
+
+
+Manufactory 
+ 10 Pigment : 126 :  4 Insects
+ 10 Pigment : 126 :  4 Berries
+ 10 Pigment : 126 :  4 Copper Ore
+ 10 Pigment : 126 :  3 Coal
+
+
+Manufactory 
+ 3 Pack of Provisions : 42 :  4 Herbs
+ 3 Pack of Provisions : 42 :  4 Berries
+ 3 Pack of Provisions : 42 :  4 Insects
+ 3 Pack of Provisions : 42 :  4 Meat
+ 3 Pack of Provisions : 42 :  4 Eggs
+
+
+Smelter 
+ 2 Copper Bars : 28 :  4 Copper Ore  5 Wood
+ 2 Copper Bars : 28 :  4 Copper Ore  2 Oil
+ 2 Copper Bars : 28 :  4 Copper Ore  1 Coal
+ 2 Copper Bars : 28 :  4 Copper Ore  1 Sea Marrow
+
+
+Smelter 
+ 10 Training Gear : 126 :  5 Stone  3 Planks
+ 10 Training Gear : 126 :  5 Stone  3 Reed
+ 10 Training Gear : 126 :  2 Copper Bars  3 Planks
+ 10 Training Gear : 126 :  2 Copper Bars  3 Reed
+ 10 Training Gear : 126 :  2 Crystalized Dew  3 Planks
+ 10 Training Gear : 126 :  2 Crystalized Dew  3 Reed
+
+
+Smelter 
+ 10 Biscuits : 126 :  8 Flour  4 Herbs
+ 10 Biscuits : 126 :  8 Flour  4 Berries
+ 10 Biscuits : 126 :  8 Flour  4 Roots
+
+
+Tinkerer 
+ 2 Tools : 75 :  8 Wood  3 Copper Bars
+ 2 Tools : 75 :  8 Wood  3 Crystalized Dew
+ 2 Tools : 75 :  2 Planks  3 Copper Bars
+ 2 Tools : 75 :  2 Planks  3 Crystalized Dew
+
+
+Tinkerer 
+ 10 Training Gear : 126 :  5 Stone  3 Planks
+ 10 Training Gear : 126 :  5 Stone  3 Reed
+ 10 Training Gear : 126 :  2 Copper Bars  3 Planks
+ 10 Training Gear : 126 :  2 Copper Bars  3 Reed
+ 10 Training Gear : 126 :  2 Crystalized Dew  3 Planks
+ 10 Training Gear : 126 :  2 Crystalized Dew  3 Reed
+
+
+Tinkerer 
+ 2 Pack of Building Materials : 42 :  7 Planks
+ 2 Pack of Building Materials : 42 :  4 Fabric
+ 2 Pack of Building Materials : 42 :  4 Bricks
+ 2 Pack of Building Materials : 42 :  10 Copper Ore
+
+
+Flawless_Smelter 
+ 2 Copper Bars : 28 :  4 Copper Ore  5 Wood
+ 2 Copper Bars : 28 :  4 Copper Ore  2 Oil
+ 2 Copper Bars : 28 :  4 Copper Ore  1 Coal
+ 2 Copper Bars : 28 :  4 Copper Ore  1 Sea Marrow
+
+
+Flawless_Smelter 
+ 10 Training Gear : 105 :  3 Stone  2 Planks
+ 10 Training Gear : 105 :  3 Stone  2 Reed
+ 10 Training Gear : 105 :  1 Copper Bars  2 Planks
+ 10 Training Gear : 105 :  1 Copper Bars  2 Reed
+ 10 Training Gear : 105 :  1 Crystalized Dew  2 Planks
+ 10 Training Gear : 105 :  1 Crystalized Dew  2 Reed
+
+
+Flawless_Smelter 
+ 10 Biscuits : 105 :  8 Flour  2 Herbs
+ 10 Biscuits : 105 :  8 Flour  2 Berries
+ 10 Biscuits : 105 :  8 Flour  2 Roots
+
+
+Makeshift_Post 
+ 2 Pack of Crops : 56 :  6 Roots
+ 2 Pack of Crops : 56 :  6 Grain
+ 2 Pack of Crops : 56 :  6 Vegetables
+ 2 Pack of Crops : 56 :  6 Mushrooms
+
+
+Makeshift_Post 
+ 3 Pack of Provisions : 56 :  6 Herbs
+ 3 Pack of Provisions : 56 :  6 Berries
+ 3 Pack of Provisions : 56 :  6 Insects
+ 3 Pack of Provisions : 56 :  6 Meat
+ 3 Pack of Provisions : 56 :  6 Eggs
+
+
+Makeshift_Post 
+ 2 Pack of Building Materials : 56 :  10 Planks
+ 2 Pack of Building Materials : 56 :  6 Fabric
+ 2 Pack of Building Materials : 56 :  6 Bricks
+ 2 Pack of Building Materials : 56 :  14 Copper Ore
+
+
+Rain_Mill 
+ 10 Flour : 63 :  5 Grain
+ 10 Flour : 63 :  5 Mushrooms
+ 10 Flour : 63 :  5 Roots
+
+
+Rain_Mill 
+ 8 Scrolls : 84 :  4 Leather  3 Pigment
+ 8 Scrolls : 84 :  4 Leather  3 Wine
+ 8 Scrolls : 84 :  4 Plant Fiber  3 Pigment
+ 8 Scrolls : 84 :  4 Plant Fiber  3 Wine
+ 8 Scrolls : 84 :  10 Wood  3 Pigment
+ 8 Scrolls : 84 :  10 Wood  3 Wine
+
+
+Rain_Mill 
+ 2 Pack of Building Materials : 42 :  8 Planks
+ 2 Pack of Building Materials : 42 :  5 Fabric
+ 2 Pack of Building Materials : 42 :  5 Bricks
+ 2 Pack of Building Materials : 42 :  12 Copper Ore
+
+
+Flawless_Rain_Mill 
+ 10 Flour : 63 :  5 Grain
+ 10 Flour : 63 :  5 Mushrooms
+ 10 Flour : 63 :  5 Roots
+
+
+Flawless_Rain_Mill 
+ 8 Scrolls : 63 :  2 Leather  1 Pigment
+ 8 Scrolls : 63 :  2 Leather  1 Wine
+ 8 Scrolls : 63 :  2 Plant Fiber  1 Pigment
+ 8 Scrolls : 63 :  2 Plant Fiber  1 Wine
+ 8 Scrolls : 63 :  6 Wood  1 Pigment
+ 8 Scrolls : 63 :  6 Wood  1 Wine
+
+
+Flawless_Rain_Mill 
+ 2 Pack of Building Materials : 42 :  6 Planks
+ 2 Pack of Building Materials : 42 :  3 Fabric
+ 2 Pack of Building Materials : 42 :  3 Bricks
+ 2 Pack of Building Materials : 42 :  8 Copper Ore
+
+
+Finesmith 
+ 1 Amber : 42 :  3 Resin  10 Clearance Water
+ 1 Amber : 42 :  3 Resin  1 Oil
+
+
+Finesmith 
+ 2 Tools : 60 :  6 Wood  2 Copper Bars
+ 2 Tools : 60 :  6 Wood  2 Crystalized Dew
+ 2 Tools : 60 :  1 Planks  2 Copper Bars
+ 2 Tools : 60 :  1 Planks  2 Crystalized Dew
+
+
+Kiln 
+ 5 Coal : 84 :  10 Wood
+
+
+Kiln 
+ 2 Bricks : 42 :  4 Clay
+ 2 Bricks : 42 :  4 Stone
+
+
+Kiln 
+ 10 Jerky : 126 :  6 Insects  5 Wood
+ 10 Jerky : 126 :  6 Insects  2 Oil
+ 10 Jerky : 126 :  6 Insects  1 Coal
+ 10 Jerky : 126 :  6 Insects  1 Sea Marrow
+ 10 Jerky : 126 :  6 Meat  5 Wood
+ 10 Jerky : 126 :  6 Meat  2 Oil
+ 10 Jerky : 126 :  6 Meat  1 Coal
+ 10 Jerky : 126 :  6 Meat  1 Sea Marrow
+
+
+Furnace 
+ 2 Copper Bars : 42 :  5 Copper Ore  5 Wood
+ 2 Copper Bars : 42 :  5 Copper Ore  2 Oil
+ 2 Copper Bars : 42 :  5 Copper Ore  1 Coal
+ 2 Copper Bars : 42 :  5 Copper Ore  1 Sea Marrow
+
+
+Furnace 
+ 2 Bricks : 42 :  3 Clay
+ 2 Bricks : 42 :  3 Stone
+
+
+Furnace 
+ 10 Pie : 126 :  6 Flour  4 Herbs
+ 10 Pie : 126 :  6 Flour  4 Meat
+ 10 Pie : 126 :  6 Flour  4 Insects
+ 10 Pie : 126 :  6 Flour  4 Eggs
+ 10 Pie : 126 :  6 Flour  4 Berries
+
+
+Brickyard 
+ 2 Bricks : 28 :  2 Clay
+ 2 Bricks : 28 :  2 Stone
+
+
+Brickyard 
+ 5 Pottery : 84 :  3 Clay  5 Wood
+ 5 Pottery : 84 :  3 Clay  2 Oil
+ 5 Pottery : 84 :  3 Clay  1 Coal
+ 5 Pottery : 84 :  3 Clay  1 Sea Marrow
+
+
+Brickyard 
+ 2 Crystalized Dew : 42 :  3 Herbs  4 Stone  10 Storm Water
+ 2 Crystalized Dew : 42 :  3 Herbs  4 Stone  14 Clearance Water
+ 2 Crystalized Dew : 42 :  3 Herbs  4 Stone  18 Drizzle Water
+ 2 Crystalized Dew : 42 :  3 Herbs  4 Clay  10 Storm Water
+ 2 Crystalized Dew : 42 :  3 Herbs  4 Clay  14 Clearance Water
+ 2 Crystalized Dew : 42 :  3 Herbs  4 Clay  18 Drizzle Water
+ 2 Crystalized Dew : 42 :  3 Insects  4 Stone  10 Storm Water
+ 2 Crystalized Dew : 42 :  3 Insects  4 Stone  14 Clearance Water
+ 2 Crystalized Dew : 42 :  3 Insects  4 Stone  18 Drizzle Water
+ 2 Crystalized Dew : 42 :  3 Insects  4 Clay  10 Storm Water
+ 2 Crystalized Dew : 42 :  3 Insects  4 Clay  14 Clearance Water
+ 2 Crystalized Dew : 42 :  3 Insects  4 Clay  18 Drizzle Water
+ 2 Crystalized Dew : 42 :  3 Resin  4 Stone  10 Storm Water
+ 2 Crystalized Dew : 42 :  3 Resin  4 Stone  14 Clearance Water
+ 2 Crystalized Dew : 42 :  3 Resin  4 Stone  18 Drizzle Water
+ 2 Crystalized Dew : 42 :  3 Resin  4 Clay  10 Storm Water
+ 2 Crystalized Dew : 42 :  3 Resin  4 Clay  14 Clearance Water
+ 2 Crystalized Dew : 42 :  3 Resin  4 Clay  18 Drizzle Water
+ 2 Crystalized Dew : 42 :  3 Vegetables  4 Stone  10 Storm Water
+ 2 Crystalized Dew : 42 :  3 Vegetables  4 Stone  14 Clearance Water
+ 2 Crystalized Dew : 42 :  3 Vegetables  4 Stone  18 Drizzle Water
+ 2 Crystalized Dew : 42 :  3 Vegetables  4 Clay  10 Storm Water
+ 2 Crystalized Dew : 42 :  3 Vegetables  4 Clay  14 Clearance Water
+ 2 Crystalized Dew : 42 :  3 Vegetables  4 Clay  18 Drizzle Water
+
+
+Stamping_Mill 
+ 5 Pottery : 63 :  2 Clay  5 Wood
+ 5 Pottery : 63 :  2 Clay  2 Oil
+ 5 Pottery : 63 :  2 Clay  1 Coal
+ 5 Pottery : 63 :  2 Clay  1 Sea Marrow
+
+
+Stamping_Mill 
+ 10 Flour : 63 :  7 Grain
+ 10 Flour : 63 :  7 Mushrooms
+ 10 Flour : 63 :  7 Roots
+
+
+Stamping_Mill 
+ 2 Copper Bars : 42 :  6 Copper Ore  5 Wood
+ 2 Copper Bars : 42 :  6 Copper Ore  2 Oil
+ 2 Copper Bars : 42 :  6 Copper Ore  1 Coal
+ 2 Copper Bars : 42 :  6 Copper Ore  1 Sea Marrow
+
+
+Rainpunk_Foundry 
+ 1 Parts : 150 :  3 Copper Bars  1 Coal
+ 1 Parts : 150 :  3 Copper Bars  1 Sea Marrow
+ 1 Parts : 150 :  3 Copper Bars  2 Oil
+ 1 Parts : 150 :  3 Copper Bars  5 Wood
+ 1 Parts : 150 :  3 Crystalized Dew  1 Coal
+ 1 Parts : 150 :  3 Crystalized Dew  1 Sea Marrow
+ 1 Parts : 150 :  3 Crystalized Dew  2 Oil
+ 1 Parts : 150 :  3 Crystalized Dew  5 Wood
+ 1 Parts : 150 :  12 Stone  1 Coal
+ 1 Parts : 150 :  12 Stone  1 Sea Marrow
+ 1 Parts : 150 :  12 Stone  2 Oil
+ 1 Parts : 150 :  12 Stone  5 Wood
+ 1 Parts : 150 :  12 Clay  1 Coal
+ 1 Parts : 150 :  12 Clay  1 Sea Marrow
+ 1 Parts : 150 :  12 Clay  2 Oil
+ 1 Parts : 150 :  12 Clay  5 Wood
+
+
+Rainpunk_Foundry 
+ 1 Wildfire Essence : 90 :  10 Coal  2 Copper Bars  10 Storm Water
+ 1 Wildfire Essence : 90 :  10 Coal  2 Copper Bars  10 Clearance Water
+ 1 Wildfire Essence : 90 :  10 Coal  2 Crystalized Dew  10 Storm Water
+ 1 Wildfire Essence : 90 :  10 Coal  2 Crystalized Dew  10 Clearance Water
+
+
+Leatherworker 
+ 10 Waterskins : 63 :  4 Leather  2 Oil
+ 10 Waterskins : 63 :  4 Leather  2 Meat
+
+
+Leatherworker 
+ 2 Fabric : 42 :  3 Plant Fiber
+ 2 Fabric : 42 :  3 Reed
+ 2 Fabric : 42 :  3 Leather
+
+
+Leatherworker 
+ 10 Pigment : 126 :  4 Insects
+ 10 Pigment : 126 :  4 Berries
+ 10 Pigment : 126 :  4 Copper Ore
+ 10 Pigment : 126 :  3 Coal
+
+
+Flawless_Leatherworker 
+ 10 Waterskins : 63 :  4 Leather  2 Oil
+ 10 Waterskins : 63 :  4 Leather  2 Meat
+
+
+Flawless_Leatherworker 
+ 2 Fabric : 28 :  2 Plant Fiber
+ 2 Fabric : 28 :  2 Reed
+ 2 Fabric : 28 :  2 Leather
+
+
+Flawless_Leatherworker 
+ 10 Pigment : 105 :  3 Insects
+ 10 Pigment : 105 :  3 Berries
+ 10 Pigment : 105 :  3 Copper Ore
+ 10 Pigment : 105 :  2 Coal
+
+
+Greenhouse 
+ 4 Mushrooms : 84 :  4 Drizzle Water
+
+
+Greenhouse 
+ 4 Herbs : 84 :  4 Drizzle Water
+
+
+Hallowed_Herb_Garden 
+ 9 Roots : 60 : 
+
+
+Hallowed_Herb_Garden 
+ 9 Herbs : 60 : 
+
+
+Herb_Garden 
+ 3 Roots : 60 : 
+
+
+Herb_Garden 
+ 6 Herbs : 60 : 
+
+
+Bakery 
+ 10 Biscuits : 126 :  8 Flour  3 Herbs
+ 10 Biscuits : 126 :  8 Flour  3 Berries
+ 10 Biscuits : 126 :  8 Flour  3 Roots
+
+
+Bakery 
+ 10 Pie : 126 :  6 Flour  4 Herbs
+ 10 Pie : 126 :  6 Flour  4 Meat
+ 10 Pie : 126 :  6 Flour  4 Insects
+ 10 Pie : 126 :  6 Flour  4 Eggs
+ 10 Pie : 126 :  6 Flour  4 Berries
+
+
+Bakery 
+ 5 Pottery : 84 :  3 Clay  5 Wood
+ 5 Pottery : 84 :  3 Clay  2 Oil
+ 5 Pottery : 84 :  3 Clay  1 Coal
+ 5 Pottery : 84 :  3 Clay  1 Sea Marrow
+
+
+Brick_Oven 
+ 10 Pie : 105 :  6 Flour  3 Herbs
+ 10 Pie : 105 :  6 Flour  3 Meat
+ 10 Pie : 105 :  6 Flour  3 Insects
+ 10 Pie : 105 :  6 Flour  3 Eggs
+ 10 Pie : 105 :  6 Flour  3 Berries
+
+
+Brick_Oven 
+ 3 Coal : 126 :  15 Wood
+
+
+Brick_Oven 
+ 10 Incense : 126 :  6 Herbs  6 Wood
+ 10 Incense : 126 :  6 Herbs  3 Oil
+ 10 Incense : 126 :  6 Herbs  2 Coal
+ 10 Incense : 126 :  6 Herbs  2 Sea Marrow
+ 10 Incense : 126 :  6 Roots  6 Wood
+ 10 Incense : 126 :  6 Roots  3 Oil
+ 10 Incense : 126 :  6 Roots  2 Coal
+ 10 Incense : 126 :  6 Roots  2 Sea Marrow
+ 10 Incense : 126 :  6 Insects  6 Wood
+ 10 Incense : 126 :  6 Insects  3 Oil
+ 10 Incense : 126 :  6 Insects  2 Coal
+ 10 Incense : 126 :  6 Insects  2 Sea Marrow
+ 10 Incense : 126 :  8 Resin  6 Wood
+ 10 Incense : 126 :  8 Resin  3 Oil
+ 10 Incense : 126 :  8 Resin  2 Coal
+ 10 Incense : 126 :  8 Resin  2 Sea Marrow
+
+
+Cookhouse 
+ 10 Skewers : 126 :  4 Insects  4 Vegetables
+ 10 Skewers : 126 :  4 Insects  4 Roots
+ 10 Skewers : 126 :  4 Insects  4 Berries
+ 10 Skewers : 126 :  4 Insects  4 Eggs
+ 10 Skewers : 126 :  4 Meat  4 Vegetables
+ 10 Skewers : 126 :  4 Meat  4 Roots
+ 10 Skewers : 126 :  4 Meat  4 Berries
+ 10 Skewers : 126 :  4 Meat  4 Eggs
+ 10 Skewers : 126 :  4 Mushrooms  4 Vegetables
+ 10 Skewers : 126 :  4 Mushrooms  4 Roots
+ 10 Skewers : 126 :  4 Mushrooms  4 Berries
+ 10 Skewers : 126 :  4 Mushrooms  4 Eggs
+ 10 Skewers : 126 :  3 Jerky  4 Vegetables
+ 10 Skewers : 126 :  3 Jerky  4 Roots
+ 10 Skewers : 126 :  3 Jerky  4 Berries
+ 10 Skewers : 126 :  3 Jerky  4 Eggs
+
+
+Cookhouse 
+ 10 Biscuits : 126 :  8 Flour  3 Herbs
+ 10 Biscuits : 126 :  8 Flour  3 Berries
+ 10 Biscuits : 126 :  8 Flour  3 Roots
+
+
+Cookhouse 
+ 10 Pigment : 126 :  4 Insects
+ 10 Pigment : 126 :  4 Berries
+ 10 Pigment : 126 :  4 Copper Ore
+ 10 Pigment : 126 :  3 Coal
+
+
+Smokehouse 
+ 10 Jerky : 105 :  4 Insects  5 Wood
+ 10 Jerky : 105 :  4 Insects  2 Oil
+ 10 Jerky : 105 :  4 Insects  1 Coal
+ 10 Jerky : 105 :  4 Insects  1 Sea Marrow
+ 10 Jerky : 105 :  4 Meat  5 Wood
+ 10 Jerky : 105 :  4 Meat  2 Oil
+ 10 Jerky : 105 :  4 Meat  1 Coal
+ 10 Jerky : 105 :  4 Meat  1 Sea Marrow
+
+
+Smokehouse 
+ 5 Pottery : 84 :  4 Clay  5 Wood
+ 5 Pottery : 84 :  4 Clay  2 Oil
+ 5 Pottery : 84 :  4 Clay  1 Coal
+ 5 Pottery : 84 :  4 Clay  1 Sea Marrow
+
+
+Smokehouse 
+ 10 Incense : 126 :  6 Herbs  6 Wood
+ 10 Incense : 126 :  6 Herbs  3 Oil
+ 10 Incense : 126 :  6 Herbs  2 Coal
+ 10 Incense : 126 :  6 Herbs  2 Sea Marrow
+ 10 Incense : 126 :  6 Roots  6 Wood
+ 10 Incense : 126 :  6 Roots  3 Oil
+ 10 Incense : 126 :  6 Roots  2 Coal
+ 10 Incense : 126 :  6 Roots  2 Sea Marrow
+ 10 Incense : 126 :  6 Insects  6 Wood
+ 10 Incense : 126 :  6 Insects  3 Oil
+ 10 Incense : 126 :  6 Insects  2 Coal
+ 10 Incense : 126 :  6 Insects  2 Sea Marrow
+ 10 Incense : 126 :  8 Resin  6 Wood
+ 10 Incense : 126 :  8 Resin  3 Oil
+ 10 Incense : 126 :  8 Resin  2 Coal
+ 10 Incense : 126 :  8 Resin  2 Sea Marrow
+
+
+Butcher 
+ 10 Skewers : 126 :  4 Insects  4 Vegetables
+ 10 Skewers : 126 :  4 Insects  4 Roots
+ 10 Skewers : 126 :  4 Insects  4 Berries
+ 10 Skewers : 126 :  4 Insects  4 Eggs
+ 10 Skewers : 126 :  4 Meat  4 Vegetables
+ 10 Skewers : 126 :  4 Meat  4 Roots
+ 10 Skewers : 126 :  4 Meat  4 Berries
+ 10 Skewers : 126 :  4 Meat  4 Eggs
+ 10 Skewers : 126 :  4 Mushrooms  4 Vegetables
+ 10 Skewers : 126 :  4 Mushrooms  4 Roots
+ 10 Skewers : 126 :  4 Mushrooms  4 Berries
+ 10 Skewers : 126 :  4 Mushrooms  4 Eggs
+ 10 Skewers : 126 :  3 Jerky  4 Vegetables
+ 10 Skewers : 126 :  3 Jerky  4 Roots
+ 10 Skewers : 126 :  3 Jerky  4 Berries
+ 10 Skewers : 126 :  3 Jerky  4 Eggs
+
+
+Butcher 
+ 10 Jerky : 126 :  5 Insects  5 Wood
+ 10 Jerky : 126 :  5 Insects  2 Oil
+ 10 Jerky : 126 :  5 Insects  1 Coal
+ 10 Jerky : 126 :  5 Insects  1 Sea Marrow
+ 10 Jerky : 126 :  5 Meat  5 Wood
+ 10 Jerky : 126 :  5 Meat  2 Oil
+ 10 Jerky : 126 :  5 Meat  1 Coal
+ 10 Jerky : 126 :  5 Meat  1 Sea Marrow
+
+
+Butcher 
+ 5 Oil : 84 :  3 Grain
+ 5 Oil : 84 :  3 Meat
+ 5 Oil : 84 :  3 Vegetables
+ 5 Oil : 84 :  3 Plant Fiber
+
+
+Geyser_Pump 
+ 2 Drizzle Water : 7 : 
+
+
+Geyser_Pump 
+ 2 Clearance Water : 7 : 
+
+
+Geyser_Pump 
+ 2 Storm Water : 7 : 
+
+
+Advanced_Rain_Collector 
+ 4 Drizzle Water : 20 : 
+
+
+Advanced_Rain_Collector 
+ 4 Clearance Water : 20 : 
+
+
+Advanced_Rain_Collector 
+ 4 Storm Water : 20 : 
+
+
+Rain_Collector 
+ 2 Drizzle Water : 20 : 
+
+
+Rain_Collector 
+ 2 Clearance Water : 20 : 
+
+
+Rain_Collector 
+ 2 Storm Water : 20 : 
+
+
+Clay_Pit 
+ 4 Clay : 60 :  4 Clearance Water
+
+
+Clay_Pit 
+ 4 Reed : 60 :  4 Clearance Water
+
+
+Hallowed_Small_Farm 
+ 9 Vegetables : 60 : 
+
+
+Hallowed_Small_Farm 
+ 9 Grain : 60 : 
+
+
+Homestead 
+ 9 Grain : 60 : 
+
+
+Homestead 
+ 9 Plant Fiber : 60 : 
+
+
+Homestead 
+ 6 Vegetables : 60 : 
+
+
+Small_Farm 
+ 3 Vegetables : 60 : 
+
+
+Small_Farm 
+ 6 Grain : 60 : 
+
+
+Ranch 
+ 10 Meat : 84 :  8 Plant Fiber
+ 10 Meat : 84 :  8 Reed
+ 10 Meat : 84 :  8 Grain
+ 10 Meat : 84 :  5 Vegetables
+
+
+Ranch 
+ 4 Leather : 42 :  2 Plant Fiber
+ 4 Leather : 42 :  2 Reed
+ 4 Leather : 42 :  2 Grain
+ 4 Leather : 42 :  1 Vegetables
+
+
+Ranch 
+ 5 Eggs : 84 :  3 Grain
+ 5 Eggs : 84 :  2 Insects
+ 5 Eggs : 84 :  2 Reed
+ 5 Eggs : 84 :  2 Berries
+
+
+Plantation 
+ 6 Berries : 60 : 
+
+
+Plantation 
+ 6 Plant Fiber : 60 : 
+
+
+Mine 
+ 1 Coal : 40 : 
+
+
+Mine 
+ 1 Copper Ore : 40 : 
+
+
+
