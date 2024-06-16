@@ -4,21 +4,27 @@ import pandas
 import requests
 from bs4 import BeautifulSoup
 from read_product import parse_product
-from read_workshop import parse_workshop, ProductionChain
+from read_workshop import parse_workshop, ProductionChain, Workshop
 import re
 import time
 
 urls = {}
 product_prices = []
-productionChains: List[ProductionChain] = []
+work_shops: List[Workshop] = []
 domain = 'https://hoodedhorse.com'
 current = 'https://hoodedhorse.com/wiki/Against_the_Storm/Cooperage'
 urls[current] = False
 for x in range(550):
+    found = False
     for key, value in urls.items():
         if value == False:
+            found = True
             current = key
             break
+
+    if not found:
+        break
+
     urls[current] = True
     try:
         parse_product_detect = False
@@ -28,7 +34,7 @@ for x in range(550):
             buy_price, sell_price = parse_product(current)
             if buy_price is not None:
                 parse_product_detect = True
-                product_prices.append((name, buy_price, sell_price))
+                product_prices.append([name, buy_price, sell_price])
                 print(f" {current}	product")
         except Exception as e:
             parse_product_detect = False
@@ -38,9 +44,9 @@ for x in range(550):
         try:
             result = re.search('Against_the_Storm/(.*)', current)
             name = result.group(1)
-            chains = parse_workshop(current)
-            if len(chains) > 0:
-                productionChains.append(chains)
+            workshop = parse_workshop(current)
+            if len(workshop.production_chains) > 0:
+                work_shops.append(workshop)
                 parse_workshop_detect = True
                 print(f" {current}	workshop")
         except Exception as e:
@@ -48,7 +54,7 @@ for x in range(550):
 
         if not parse_product_detect and not parse_workshop_detect:
             print(f" {current}	parse not working")
-            time.sleep(2)
+            time.sleep(1)
             continue
 
         response = requests.get(current)
@@ -62,19 +68,9 @@ for x in range(550):
                 if url not in urls.keys():
                     urls[url] = False
 
-        time.sleep(2)
+        time.sleep(1)
     except Exception as e:
         print(current + "	not found")
-
-    found = False
-    for key, value in urls.items():
-        if value is not True:
-            current = key
-            found = True
-            break
-
-    if found is not True:
-        break
 
 
 with open("urls.txt", "w") as file1:
@@ -90,15 +86,34 @@ with open("urls.txt", "w") as file1:
 
 
 
-with open("productionchain.txt", "w") as file1:
-    for chains in productionChains:
-        for chain in chains:
-            file1.write(f"{chain.name} \n")
-            file1.write(f"{chain.to_string()}")
-            file1.write("\n")
-            file1.write("\n")
-    file1.write("\n")
+# with open("productionchain.txt", "w") as file1:
+#     for chains in workshops.production_chains:
+#         for chain in chains:
+#             file1.write(f"{chain.name} \n")
+#             file1.write(f"{chain.to_string()}")
+#             file1.write("\n")
+#             file1.write("\n")
+#     file1.write("\n")
 
-with open("prices.txt", "w") as file2:
-    for p in product_prices:
-        file2.write(str(p)+"\n")
+df = pandas.DataFrame(product_prices, columns=['name', 'buy_price', 'sell_price'])
+
+production_row = []
+for workshop in work_shops:
+    for chain in workshop.production_chains:
+        for c in chain.expand():
+            row = []
+            row.append(workshop.name)
+            row.append(chain.time)
+            for ing in c:
+                row.append(ing.number)
+                row.append(ing.name)
+            production_row.append(row)
+
+df1 = pandas.DataFrame(production_row, columns=['name', "time" ,'product_name', 'product_number',"ing1name","ing1number","ing2name","ing2number","ing3name","ing3number"])
+
+writer = pandas.ExcelWriter('output.xlsx', engine='xlsxwriter')
+df.to_excel(writer, sheet_name='prices', index=False)
+df1.to_excel(writer, sheet_name='production', index=False)
+
+
+writer.close()
