@@ -23,6 +23,7 @@ for x in range(550):
             break
 
     if not found:
+        print("read all links")
         break
 
     urls[current] = True
@@ -80,24 +81,11 @@ with open("urls.txt", "w") as file1:
         file1.write(str(value))
         file1.write("\n")
 
-#df = pandas.DataFrame(product_prices, columns=['name', 'buy_price', 'sell_price'])
-#df.set_index(['name'], inplace=True)
-#df.to_excel("output.xlsx")
-
-
-
-# with open("productionchain.txt", "w") as file1:
-#     for chains in workshops.production_chains:
-#         for chain in chains:
-#             file1.write(f"{chain.name} \n")
-#             file1.write(f"{chain.to_string()}")
-#             file1.write("\n")
-#             file1.write("\n")
-#     file1.write("\n")
 
 df = pandas.DataFrame(product_prices, columns=['name', 'buy_price', 'sell_price'])
 
 production_row = []
+index=2
 for workshop in work_shops:
     for chain in workshop.production_chains:
         for c in chain.expand():
@@ -107,9 +95,21 @@ for workshop in work_shops:
             for ing in c:
                 row.append(ing.number)
                 row.append(ing.name)
+            while len(row) < 10:
+                row.append(0)
+                row.append(None)
+            row.append(f"=VLOOKUP(D{index},$prices.$A2:$prices.$C100,2,1)")
+            row.append(f"=VLOOKUP(F{index},$prices.$A2:$prices.$C100,2,1)")
+            row.append(f"=VLOOKUP(H{index},$prices.$A2:$prices.$C100,2,1)")
+            row.append(f"=VLOOKUP(J{index},$prices.$A2:$prices.$C100,2,1)")
+            row.append(f"=L{index}+M{index}+N{index}")
+            row.append(f"=K{index}-O{index}")
+            index += 1
             production_row.append(row)
 
-df1 = pandas.DataFrame(production_row, columns=['name', "time" ,'product_name', 'product_number',"ing1name","ing1number","ing2name","ing2number","ing3name","ing3number"])
+df1 = pandas.DataFrame(production_row, columns=['name', "time" ,'product_name', 'product_number',"ing1number","ing1name","ing2number","ing2name","ing3number","ing3name", "productCost", "ing1cost", "ing2cost", "ing3cost", "ingcost", "profit"])
+
+
 
 writer = pandas.ExcelWriter('output.xlsx', engine='xlsxwriter')
 df.to_excel(writer, sheet_name='prices', index=False)
