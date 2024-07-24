@@ -98,12 +98,12 @@ for workshop in work_shops:
             while len(row) < 10:
                 row.append(0)
                 row.append(None)
-            row.append(f"=VLOOKUP(D{index},$prices.$A2:$prices.$C100,2,1)")
-            row.append(f"=VLOOKUP(F{index},$prices.$A2:$prices.$C100,2,1)")
-            row.append(f"=VLOOKUP(H{index},$prices.$A2:$prices.$C100,2,1)")
-            row.append(f"=VLOOKUP(J{index},$prices.$A2:$prices.$C100,2,1)")
-            row.append(f"=L{index}+M{index}+N{index}")
-            row.append(f"=K{index}-O{index}")
+            row.append(f"=IFNA(VLOOKUP(D{index},prices!A2:prices!C100,2,1),0)")
+            row.append(f"=IFNA(VLOOKUP(F{index},prices!A2:prices!C100,2,1),0)")
+            row.append(f"=IFNA(VLOOKUP(H{index},prices!A2:prices!C100,2,1),0)")
+            row.append(f"=IFNA(VLOOKUP(J{index},prices!A2:prices!C100,2,1),0)")
+            row.append(f"=E{index}*L{index}+G{index}*M{index}+I{index}*N{index}")
+            row.append(f"=C{index}*K{index}-O{index}")
             index += 1
             production_row.append(row)
 
