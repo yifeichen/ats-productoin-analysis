@@ -1,9 +1,6 @@
 from typing import List
 
 import pandas
-import requests
-from bs4 import BeautifulSoup
-import re
 
 
 class IngredientElement:
@@ -19,7 +16,7 @@ class ProductionChain:
     def __init__(self):
         self.time: int = 0
         self.name = ""
-        self.product: IngredientElement = []
+        self.product: IngredientElement = None
         self.ingredient: List[List[IngredientElement]] = []
 
     def to_string(self):
@@ -44,8 +41,7 @@ class ProductionChain:
                 ret.extend([x.to_string() + " " + y for y in remain_list])
             return ret
 
-
-    def ingredient_expand(self, remain: List[List[IngredientElement]])-> List[List[IngredientElement]]:
+    def ingredient_expand(self, remain: List[List[IngredientElement]]) -> List[List[IngredientElement]]:
         current_List = remain.pop(0)
         if len(remain) == 0:
             ret = []
@@ -74,7 +70,6 @@ class ProductionChain:
             ret.append(line)
         return ret
 
-
     def ingredient_list_to_list(self, remain: List[List[IngredientElement]]) -> List:
         current_List = remain.pop(0)
         if len(remain) == 0:
@@ -86,7 +81,7 @@ class ProductionChain:
             ret = []
             for x in current_List:
                 for y in remain_list:
-                    y.insert(0,x.to_string())
+                    y.insert(0, x.to_string())
                     ret.append(y)
             return ret
 
@@ -98,7 +93,7 @@ class ProductionChain:
             lines = []
 
         for line in lines:
-            line.insert(0,self.product.to_string())
+            line.insert(0, self.product.to_string())
             ret.append(line)
         return ret
 
@@ -126,7 +121,7 @@ def parse_workshop(url) -> Workshop:
     tables = pandas.read_html(url, match="Ingredient")
     table = tables[0]
     building_name = url.split('/')[-1]
-    data_rows = table.query(f'Building=="{building_name.replace("_"," ")}"')
+    data_rows = table.query(f'Building=="{building_name.replace("_", " ")}"')
     ret = Workshop()
     ret.name = building_name
 
@@ -142,10 +137,10 @@ def parse_workshop(url) -> Workshop:
         current.product = p
         time_string = row.iloc[1].replace("★", "")
         current.time = int(time_string[:-3]) * 60 + int(time_string[-2:])
-        for index in range(2,len(data_rows.count())-1):
+        for index in range(2, len(data_rows.count()) - 1):
             ing_str_list = row.iloc[index].replace("\xa0", " ").split()
             ing_list = parse_ingredient_list(ing_str_list)
-            if len(ing_list)>0:
+            if len(ing_list) > 0:
                 current.ingredient.append(ing_list)
         ret.production_chains.append(current)
     return ret

@@ -1,4 +1,4 @@
-from typing import List
+from typing import List, Set
 
 import pandas
 import requests
@@ -8,25 +8,22 @@ from read_workshop import parse_workshop, ProductionChain, Workshop
 import re
 import time
 
-urls = {}
+urls = set()
+visited_url = set()
 product_prices = []
 work_shops: List[Workshop] = []
 domain = 'https://hoodedhorse.com'
 current = 'https://hoodedhorse.com/wiki/Against_the_Storm/Cooperage'
-urls[current] = False
-for x in range(550):
-    found = False
-    for key, value in urls.items():
-        if value == False:
-            found = True
-            current = key
-            break
+urls.add(current)
+for x in range(50):
 
-    if not found:
+    if len(urls) == 0:
         print("read all links")
         break
 
-    urls[current] = True
+    current = urls.pop()
+    visited_url.add(current)
+    
     try:
         parse_product_detect = False
         try:
@@ -40,18 +37,18 @@ for x in range(550):
         except Exception as e:
             parse_product_detect = False
 
-
-        parse_workshop_detect = False
-        try:
-            result = re.search('Against_the_Storm/(.*)', current)
-            name = result.group(1)
-            workshop = parse_workshop(current)
-            if len(workshop.production_chains) > 0:
-                work_shops.append(workshop)
-                parse_workshop_detect = True
-                print(f" {current}	workshop")
-        except Exception as e:
+        if not parse_product_detect:
             parse_workshop_detect = False
+            try:
+                result = re.search('Against_the_Storm/(.*)', current)
+                name = result.group(1)
+                workshop = parse_workshop(current)
+                if len(workshop.production_chains) > 0:
+                    work_shops.append(workshop)
+                    parse_workshop_detect = True
+                    print(f" {current}	workshop")
+            except Exception as e:
+                parse_workshop_detect = False
 
         if not parse_product_detect and not parse_workshop_detect:
             print(f" {current}	parse not working")
@@ -66,32 +63,26 @@ for x in range(550):
             url_split = url.split("/")
             if len(url_split) > 2 and url_split[1] == "wiki" and "index" not in url and ":" not in url:
                 url = domain + url.replace("#Product", "").replace("#Ingredient", "")
-                if url not in urls.keys():
-                    urls[url] = False
+                if url not in visited_url:
+                    urls.add(url)
 
         time.sleep(1)
     except Exception as e:
-        print(current + "	not found")
+        print(current + "  not found")
 
+with open("urls.txt", "w") as visited_log:
+    for url in visited_url:
+        visited_log.write(url)
+        visited_log.write("\n")
 
-with open("urls.txt", "w") as file1:
-    for key, value in urls.items():
-        file1.write(key)
-        file1.write(' , ')
-        file1.write(str(value))
-        file1.write("\n")
-
-
-df = pandas.DataFrame(product_prices, columns=['name', 'buy_price', 'sell_price'])
+df_prices = pandas.DataFrame(product_prices, columns=['name', 'buy_price', 'sell_price'])
 
 production_row = []
-index=2
+index = 2
 for workshop in work_shops:
     for chain in workshop.production_chains:
         for c in chain.expand():
-            row = []
-            row.append(workshop.name)
-            row.append(chain.time)
+            row = [workshop.name, chain.time]
             for ing in c:
                 row.append(ing.number)
                 row.append(ing.name)
@@ -107,13 +98,13 @@ for workshop in work_shops:
             index += 1
             production_row.append(row)
 
-df1 = pandas.DataFrame(production_row, columns=['name', "time" ,'product_name', 'product_number',"ing1number","ing1name","ing2number","ing2name","ing3number","ing3name", "productCost", "ing1cost", "ing2cost", "ing3cost", "ingcost", "profit"])
-
-
+df_production = pandas.DataFrame(production_row,
+                                 columns=['name', "time", 'product_name', 'product_number', "ing1number", "ing1name",
+                                          "ing2number", "ing2name", "ing3number", "ing3name", "productCost", "ing1cost",
+                                          "ing2cost", "ing3cost", "ingcost", "profit"])
 
 writer = pandas.ExcelWriter('output.xlsx', engine='xlsxwriter')
-df.to_excel(writer, sheet_name='prices', index=False)
-df1.to_excel(writer, sheet_name='production', index=False)
-
+df_prices.to_excel(writer, sheet_name='prices', index=False)
+df_production.to_excel(writer, sheet_name='production', index=False)
 
 writer.close()
