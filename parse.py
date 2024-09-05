@@ -15,7 +15,7 @@ work_shops: List[Workshop] = []
 domain = 'https://hoodedhorse.com'
 current = 'https://hoodedhorse.com/wiki/Against_the_Storm/Cooperage'
 urls.add(current)
-for x in range(50):
+for x in range(550):
 
     if len(urls) == 0:
         print("read all links")
