@@ -104,14 +104,14 @@ class Workshop:
         self.production_chains = []
 
 
-def parse_ingredient_list(strList) -> List[IngredientElement]:
+def parse_ingredient_list(str_list) -> List[IngredientElement]:
     ret = []
-    while len(strList) >= 2:
+    while len(str_list) >= 2:
         p = IngredientElement()
-        p.number = int(strList.pop(0))
-        p.name = strList.pop(0)
-        while len(strList) > 0 and not strList[0].isdigit():
-            p.name += " " + strList.pop(0)
+        p.number = int(str_list.pop(0))
+        p.name = str_list.pop(0)
+        while len(str_list) > 0 and not str_list[0].isdigit():
+            p.name += " " + str_list.pop(0)
         if p.name != "-":
             ret.append(p)
     return ret
@@ -137,8 +137,8 @@ def parse_workshop(url) -> Workshop:
         current.product = p
         time_string = row.iloc[1].replace("★", "")
         current.time = int(time_string[:-3]) * 60 + int(time_string[-2:])
-        for index in range(2, len(data_rows.count()) - 1):
-            ing_str_list = row.iloc[index].replace("\xa0", " ").split()
+        for row_index in range(2, len(data_rows.count()) - 1):
+            ing_str_list = row.iloc[row_index].replace("\xa0", " ").split()
             ing_list = parse_ingredient_list(ing_str_list)
             if len(ing_list) > 0:
                 current.ingredient.append(ing_list)
