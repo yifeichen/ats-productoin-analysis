@@ -40,6 +40,7 @@ for x in range(550):
                 print(f" {current}	product")
         except Exception as e:
             parse_product_detect = False
+            print(e)
 
         if not parse_product_detect:
             parse_workshop_detect = False
@@ -53,6 +54,7 @@ for x in range(550):
                     print(f" {current}	workshop")
             except Exception as e:
                 parse_workshop_detect = False
+                print(e)
 
         if not parse_product_detect and not parse_workshop_detect:
             print(f" {current}	parse not working")
