@@ -125,6 +125,8 @@ def parse_workshop(url) -> Workshop:
     ret = Workshop()
     ret.name = building_name
 
+    print(f"trying to parse {building_name}")
+
     for index, row in data_rows.iterrows():
         productList = row['Product'].replace("\xa0", " ").split()
         current = ProductionChain()
@@ -154,7 +156,6 @@ def main():
             for y in x:
                 line += y.to_string() + " "
             print(line)
-
 
 if __name__ == "__main__":
     main()
