@@ -24,7 +24,7 @@ jobs:
         run: python parse.py
 
       - name: Commit changes
-        uses: yifeichen/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update results
         id: auto-commit-action
