@@ -7,6 +7,10 @@ from read_product import parse_product
 from read_workshop import parse_workshop, ProductionChain, Workshop
 import re
 import time
+import os
+
+cwd = os.getcwd()
+print(f"current directory {cwd}")
 
 urls = set()
 visited_url = set()
