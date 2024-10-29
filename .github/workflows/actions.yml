@@ -26,6 +26,5 @@ jobs:
       - name: Commit changes
         uses: yifeichen/git-auto-commit-action@v4
         with:
-          commit_message: Update workshops.xlsx
-          commit_message: Update urls.txt
+          commit_message: Update results
         id: auto-commit-action
