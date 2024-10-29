@@ -3,12 +3,13 @@ import pandas
 
 def parse_product(url):
     try:
-        tables = pandas.read_html(url, match="Buy price")
-        table = tables[0]
-        buy_price = table.query("@table[0]=='Buy price'").iat[0, 1]
-        sell_price = table.query("@table[0]=='Sell value'").iat[0, 1]
+        tables = pandas.read_html(url, match="Value when sold")
+        df = tables[0]
+        buy_price = df[df.iloc[:, 2] == "Value when sold"].iloc[:, 0].values
+        sell_price = df[df.iloc[:, 2] == "Traders' price"].iloc[:, 0].values
         return buy_price, sell_price
     except Exception as e:
+        print(e)
         return None, None
 
 
