@@ -23,3 +23,8 @@ jobs:
       - name: Execute py script
         run: python parse.py
 
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update results
+        id: auto-commit-action

@@ -118,14 +118,16 @@ def parse_ingredient_list(str_list) -> List[IngredientElement]:
 
 
 def parse_workshop(url) -> Workshop:
-    tables = pandas.read_html(url, match="Ingredient")
+    try:
+        tables = pandas.read_html(url, match="Ingredient")
+    # return nothing if table not found
+    except ValueError:
+        return None
     table = tables[0]
     building_name = url.split('/')[-1]
     data_rows = table.query(f'Building=="{building_name.replace("_", " ")}"')
     ret = Workshop()
     ret.name = building_name
-
-    print(f"trying to parse {building_name}")
 
     for index, row in data_rows.iterrows():
         productList = row['Product'].replace("\xa0", " ").split()

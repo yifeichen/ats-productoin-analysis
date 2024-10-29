@@ -8,6 +8,10 @@ def parse_product(url):
         buy_price = df[df.iloc[:, 2] == "Value when sold"].iloc[:, 0].values
         sell_price = df[df.iloc[:, 2] == "Traders' price"].iloc[:, 0].values
         return buy_price, sell_price
+    #return nothing if table not found
+    except ValueError:
+        return None, None
+    #print all other exception
     except Exception as e:
         print(e)
         return None, None

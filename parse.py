@@ -7,10 +7,7 @@ from read_product import parse_product
 from read_workshop import parse_workshop, ProductionChain, Workshop
 import re
 import time
-import os
 
-cwd = os.getcwd()
-print(f"current directory {cwd}")
 
 urls = set()
 visited_url = set()
@@ -19,7 +16,8 @@ work_shops: List[Workshop] = []
 domain = 'https://hoodedhorse.com'
 current = 'https://hoodedhorse.com/wiki/Against_the_Storm/Cooperage'
 urls.add(current)
-for x in range(550):
+# just here to make sure this stop at some point
+for x in range(400):
 
     if len(urls) == 0:
         print("read all links")
@@ -48,10 +46,12 @@ for x in range(550):
                 result = re.search('Against_the_Storm/(.*)', current)
                 name = result.group(1)
                 workshop = parse_workshop(current)
-                if len(workshop.production_chains) > 0:
+                if workshop is not None:
                     work_shops.append(workshop)
                     parse_workshop_detect = True
                     print(f" {current}	workshop")
+                else:
+                    parse_workshop_detect = False
             except Exception as e:
                 parse_workshop_detect = False
                 print(e)
