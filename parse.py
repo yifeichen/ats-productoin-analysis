@@ -17,7 +17,7 @@ domain = 'https://hoodedhorse.com'
 current = 'https://hoodedhorse.com/wiki/Against_the_Storm/Cooperage'
 urls.add(current)
 # just here to make sure this stop at some point
-for x in range(150):
+for x in range(400):
 
     if len(urls) == 0:
         print("read all links")
